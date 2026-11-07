@@ -1,2 +1,10 @@
 # gepa-guard-demo
-Stop GEPA prompt optimization from silently breaking safety cases. A guard that vetoes rewrites failing a protected floor, with a synthetic health triage demo and run records. GenAI4Health @ NeurIPS 2026.
+
+A guard for GEPA that rejects prompt rewrites that break protected safety cases.
+
+Companion to "Demo: Blocking Silent Safety Regressions in Prompt Optimization for Health AI",
+accepted at [GenAI4Health @ NeurIPS 2026](https://genai4health.github.io/2026-NeurIPS/).
+
+See the [NeurIPS 2026 page](https://neurips.cc/virtual/2026/loc/sydney/177628).
+
+Code coming soon.
